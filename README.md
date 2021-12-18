@@ -91,3 +91,9 @@
 
 ## Рузультати виконання програми
 ![2-13 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-13.jpg?raw=true)
+
+# Лабораторна робта №2-14
+- Дано два масива. Зробити третій масив з двох цих масивів. Розташування у масиві у порядку зростання.
+
+## Рузультати виконання програми
+![2-14 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-14.jpg?raw=true)
