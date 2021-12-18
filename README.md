@@ -85,3 +85,9 @@
 
 ## Рузультати виконання програми
 ![2-12 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-12.jpg?raw=true)
+
+# Лабораторна робта №2-13
+- У масиві у порядку зменшення є купюри [1000, 500,  200, 100, 50, 20, 10, 5, 2, 1]. Реалізовати видачу суми, введеної з екрану мінімальною кількістю купюр.
+
+## Рузультати виконання програми
+![2-13 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-13.jpg?raw=true)
