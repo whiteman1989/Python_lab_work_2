@@ -16,3 +16,9 @@
 
 ## Рузультати виконання програми
 ![2-3 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-3.jpg?raw=true)
+
+# Лабораторна робта №2-4
+- Переведіть першу букву кожного слова  в верхній регістр, а всі інші в нижній..
+
+## Рузультати виконання програми
+![2-4 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-4.jpg?raw=true)
