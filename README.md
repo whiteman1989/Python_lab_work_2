@@ -10,3 +10,9 @@
 
 ## Рузультати виконання програми
 ![2-2 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-2.jpg?raw=true)
+
+# Лабораторна робта №2-3
+- Перетворення рядка до нижнього регістру.
+
+## Рузультати виконання програми
+![2-3 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-3.jpg?raw=true)
