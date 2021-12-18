@@ -46,3 +46,9 @@
 
 ## Рузультати виконання програми
 ![2-6 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-6.jpg?raw=true)
+
+# Лабораторна робта №2-7
+- Дано одномірний масив, який має  10+№  цілих елементів. Введіть масив з клавіатури. Знайдіть максимальний елемент. Виведіть на екран масив у зворотньому порядку. 
+
+## Рузультати виконання програми
+![2-7 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-7.jpg?raw=true)
