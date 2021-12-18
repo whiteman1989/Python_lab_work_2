@@ -79,3 +79,9 @@
 
 ## Рузультати виконання програми
 ![2-11 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-11.jpg?raw=true)
+
+# Лабораторна робта №2-12
+- Дані натуральні числа від 35 до 87. Програма має вивести  числа, які при діленні на 7 дають остачу 1,2,5 .
+
+## Рузультати виконання програми
+![2-12 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-12.jpg?raw=true)
