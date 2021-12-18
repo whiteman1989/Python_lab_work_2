@@ -69,7 +69,13 @@
 ![2-9 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-9.jpg?raw=true)
 
 # Лабораторна робта №2-10
-- Через функцію range розрахувати суму непарних чисел діапазону від а до с, початкове та кінцеве значення ввести через вікно. Вивести суму на екран. 
+- Через функцію **range** розрахувати суму непарних чисел діапазону від а до с, початкове та кінцеве значення ввести через вікно. Вивести суму на екран. 
 
 ## Рузультати виконання програми
 ![2-10 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-10.jpg?raw=true)
+
+# Лабораторна робта №2-11
+- Знайдіть добуток цифр у тризначному числі, яке введено користувачем.
+
+## Рузультати виконання програми
+![2-11 result](https://github.com/whiteman1989/Python_lab_work_2/blob/master/images/work_res_2-11.jpg?raw=true)
